@@ -23,3 +23,8 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`); // Log message when server is up and running
 });
+
+// Add this in your main server file
+app.get('/', (req, res) => {
+  res.send('🚀 NexCharge API is running successfully!');
+});
