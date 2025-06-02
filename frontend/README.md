@@ -1,5 +1,3 @@
-# React + Vite
-
 # NexCharge
 
 NexCharge is an innovative and comprehensive platform designed to revolutionize the way electric vehicle (EV) charging stations are managed and accessed. As the world rapidly embraces sustainable transportation, NexCharge empowers EV owners, charging station operators, and administrators with a seamless, intuitive, and secure solution to monitor, control, and optimize the electric charging ecosystem.
