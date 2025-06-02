@@ -3,7 +3,7 @@ import axios from 'axios';
 
 // Creating an axios instance with a default base URL and headers
 const instance = axios.create({
-  baseURL: 'http://localhost:5000/api', // Base URL for all API requests
+  baseURL: 'https://nexcharge-backend.onrender.com/api', // Base URL for all API requests
   headers: {
     'Content-Type': 'application/json', // Default content type for requests
   },
